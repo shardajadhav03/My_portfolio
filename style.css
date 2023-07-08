@@ -23,7 +23,7 @@ a:hover {
 /* ---------------------------------------------------------------------------------------------------------------------------------------- */
 #main{
     /* background-color: #85c8ff; */
-    height: 90vh;
+    height: 100vh;
     /* border: 2px solid red; */
     display: flex;
     /* align-items: center; */
@@ -37,7 +37,7 @@ a:hover {
 }
 #project{
     /* background-color: rgb(151, 249, 216); */
-     height: 140vh;
+     height: 100vh;
      /* border: 2px solid red; */
      display: flex;
      justify-content: center;
