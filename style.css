@@ -37,7 +37,7 @@ a:hover {
 }
 #project{
     /* background-color: rgb(151, 249, 216); */
-     height: 190vh;
+     height: 180vh;
      /* border: 2px solid red; */
      display: flex;
      justify-content: center;
